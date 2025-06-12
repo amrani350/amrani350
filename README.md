@@ -1,25 +1,26 @@
-<!-- Clean, Modern Header -->
+<!-- Clean, Modern Header with Wave Animation -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=180&section=header&text=Ali%20Amrani&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Digital%20Process%20Automation&descAlignY=55&descSize=15&fontColor=61dafb" />
 </div>
 
 <br />
 
+<!-- Animated Typing Text -->
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=61DAFB&center=true&random=false&width=435&lines=Computer+Science+%26+Engineering+Student;Full-Stack+Developer;Digital+Process+Automation+Intern)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&random=false&width=500&lines=Computer+Science+%26+Engineering+Student;Full-Stack+Developer;Digital+Process+Automation+Intern" alt="Typing SVG" /></a>
 </div>
 
 <br />
 <br />
 
-<!-- Social Links -->
+<!-- Social Links with Modern Icons -->
 <div align="center">
   <a href="https://www.linkedin.com/in/ali-amrani-566361349/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:ali.amrani.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/amrani350">
@@ -33,43 +34,44 @@
 
 <br />
 <br />
-<br />
 
-<!-- About Me Section -->
-<h2 align="center">👨‍💻 About Me</h2>
+<!-- About Me Section with Modern Design -->
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="24px" height="24px" alt="About Me Icon">
+  &nbsp;About Me
+</h2>
 
 <br />
 
 <div align="center">
-  <img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
+  <img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-  <div align="left" style="width: 50%;">
-    ```typescript
-    const ali = {
-      name: "Ali Amrani",
-      location: "🌍 Morocco, Tangier",
-      current: "👨‍💻 Student & IT Intern @ TE Connectivity",
-      education: "🎓 Master's in Computer & Network Engineering",
-      learning: ["Angular", "ASP.NET Web API", "DevOps"],
-      passions: ["Process Automation", "Full-Stack Development"]
-    };
-    ```
+  <div align="left" style="width: 50%; padding-right: 20px;">
+    <p>
+      Hi there! I'm <b>Ali Amrani</b>, a passionate Full-Stack Developer and Digital Process Automation specialist from Morocco. Currently pursuing my Master's in Computer & Network Engineering while working as an IT Intern at TE Connectivity.
+    </p>
+    <p>
+      I'm enthusiastic about creating efficient digital solutions and automating processes to improve business workflows. My tech stack includes Angular, ASP.NET, and various JavaScript frameworks.
+    </p>
   </div>
 </div>
 
 <br />
 <br />
 <br />
+
+<!-- Professional Experience Section -->
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="24px" height="24px" alt="Experience Icon">
+  &nbsp;Professional Experience
+</h2>
+
 <br />
 
-<!-- Experience Section -->
-<h2 align="center">💼 Professional Experience</h2>
-
-<br />
-
+<!-- TE Connectivity -->
 <div align="center">
-  <div style="max-width: 800px; margin: 0 auto; text-align: left;">
-    <div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="max-width: 800px; margin: 0 auto; padding: 20px; background-color: rgba(13, 17, 23, 0.05); border-radius: 10px; text-align: left;">
+    <div style="display: flex; align-items: center; margin-bottom: 15px;">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/TE_Connectivity_logo.svg/2560px-TE_Connectivity_logo.svg.png" height="40" style="margin-right: 20px;">
       <h3>IT Intern – Digital Process Automation @ TE Connectivity</h3>
     </div>
@@ -83,11 +85,11 @@
 </div>
 
 <br />
-<br />
 
+<!-- PREMIUM ADVICE & TRAINING -->
 <div align="center">
-  <div style="max-width: 800px; margin: 0 auto; text-align: left;">
-    <div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="max-width: 800px; margin: 0 auto; padding: 20px; background-color: rgba(13, 17, 23, 0.05); border-radius: 10px; text-align: left;">
+    <div style="display: flex; align-items: center; margin-bottom: 15px;">
       <img src="https://premiumadvicetraining.com/wp-content/uploads/2025/01/premiumadvicetraining-logo.png" height="40" style="margin-right: 20px;">
       <h3>Full‑Stack Developer (Intern) @ PREMIUM ADVICE & TRAINING</h3>
     </div>
@@ -101,11 +103,11 @@
 </div>
 
 <br />
-<br />
 
+<!-- BMCI -->
 <div align="center">
-  <div style="max-width: 800px; margin: 0 auto; text-align: left;">
-    <div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="max-width: 800px; margin: 0 auto; padding: 20px; background-color: rgba(13, 17, 23, 0.05); border-radius: 10px; text-align: left;">
+    <div style="display: flex; align-items: center; margin-bottom: 15px;">
       <img src="https://cdn6.aptoide.com/imgs/6/d/f/6df6f84f7c7bfbde0092e34f96f18a66_icon.png" height="40" style="margin-right: 20px;">
       <h3>RPA Developer (Intern) @ BMCI Groupe BNP Paribas</h3>
     </div>
@@ -120,16 +122,18 @@
 
 <br />
 <br />
-<br />
 
 <!-- Education Section -->
-<h2 align="center">🎓 Education</h2>
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Idea-Dark.svg" width="24px" height="24px" alt="Education Icon">
+  &nbsp;Education
+</h2>
 
 <br />
 
 <div align="center">
-  <div style="max-width: 800px; margin: 0 auto; text-align: left;">
-    <div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="max-width: 800px; margin: 0 auto; padding: 20px; background-color: rgba(13, 17, 23, 0.05); border-radius: 10px; text-align: left;">
+    <div style="display: flex; align-items: center; margin-bottom: 15px;">
       <img src="https://www.emsi.ma/wp-content/uploads/2020/07/logo-emsi.png" height="40" style="margin-right: 20px;">
       <h3>École Marocaine des Sciences de l'Ingénieur</h3>
     </div>
@@ -144,35 +148,44 @@
 
 <br />
 <br />
-<br />
 
 <!-- Tech Stack Section -->
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="24px" height="24px" alt="Tech Stack Icon">
+  &nbsp;Tech Stack
+</h2>
 
 <br />
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 0 auto; max-width: 700px;">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<div align="center">
+  <p align="center"><strong>Frontend & UI</strong></p>
+  <p align="center">
+    <a href="#"><img src="https://skillicons.dev/icons?i=angular,react,typescript,nextjs,html,css" alt="Frontend Technologies" /></a>
+  </p>
+  
+  <br />
+  
+  <p align="center"><strong>Backend & Database</strong></p>
+  <p align="center">
+    <a href="#"><img src="https://skillicons.dev/icons?i=dotnet,nodejs,firebase,mongodb" alt="Backend Technologies" /></a>
+  </p>
+  
+  <br />
+  
+  <p align="center"><strong>Tools & Platforms</strong></p>
+  <p align="center">
+    <a href="#"><img src="https://skillicons.dev/icons?i=git,docker,azure,vscode" alt="Tools & Platforms" /></a>
+  </p>
 </div>
 
-<br />
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 0 auto; max-width: 700px;">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-</div>
-
-<br />
 <br />
 <br />
 
 <!-- Projects Section -->
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="24px" height="24px" alt="Projects Icon">
+  &nbsp;Featured Projects
+</h2>
 
 <br />
 
@@ -188,10 +201,12 @@
 
 <br />
 <br />
-<br />
 
 <!-- GitHub Stats Section -->
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="24px" height="24px" alt="GitHub Stats Icon">
+  &nbsp;GitHub Stats
+</h2>
 
 <br />
 
@@ -206,34 +221,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amrani350&theme=react&border=61dafb&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<br />
-<br />
-<br />
-
-<!-- Current Focus Section -->
-<h2 align="center">🎯 Current Focus</h2>
-
-<br />
-
-<div align="center">
-  
-```mermaid
-mindmap
-  root((Skills))
-    DevOps
-      CI/CD
-      Docker
-    Cloud
-      Azure
-      AWS
-    Automation
-      RPA
-      Process Optimization
-```
-  
-</div>
-
-<br />
 <br />
 <br />
 
