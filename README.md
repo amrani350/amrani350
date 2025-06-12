@@ -20,8 +20,7 @@
 
 ```yaml
 name: Ali Amrani
-pronouns: he/him
-location: Morocco
+location: Morocco, Tangier
 current: Student & IT Intern – TE Connectivity
 education: Master's in Computer & Network Engineering
 learning: Angular, ASP.NET Web API, DevOps
