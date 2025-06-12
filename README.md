@@ -68,56 +68,41 @@
 
 <br />
 
-<!-- TE Connectivity -->
 <div align="center">
-  <div style="max-width: 800px; margin: 0 auto; padding: 20px; background-color: rgba(13, 17, 23, 0.05); border-radius: 10px; text-align: left;">
-    <div style="display: flex; align-items: center; margin-bottom: 15px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/TE_Connectivity_logo.svg/2560px-TE_Connectivity_logo.svg.png" height="40" style="margin-right: 20px;">
-      <h3>IT Intern – Digital Process Automation @ TE Connectivity</h3>
-    </div>
 
-    <p><em>Apr 2025 – Present | Tanger–Tétouan–Al Hoceima, Morocco</em></p>
-    <ul>
-      <li>🔧 Working on automating internal processes</li>
-      <li>🛠️ Tech Stack: Angular, ASP.NET Web API, Modern JavaScript</li>
-    </ul>
-  </div>
+### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/TE_Connectivity_logo.svg/2560px-TE_Connectivity_logo.svg.png" height="25"> IT Intern – Digital Process Automation @ TE Connectivity
+
+*Apr 2025 – Present | Tanger–Tétouan–Al Hoceima, Morocco*
+
+- 🔧 Working on automating internal processes
+- 🛠️ Tech Stack: Angular, ASP.NET Web API, Modern JavaScript
+
 </div>
 
 <br />
 
-<!-- PREMIUM ADVICE & TRAINING -->
 <div align="center">
-  <div style="max-width: 800px; margin: 0 auto; padding: 20px; background-color: rgba(13, 17, 23, 0.05); border-radius: 10px; text-align: left;">
-    <div style="display: flex; align-items: center; margin-bottom: 15px;">
-      <img src="https://premiumadvicetraining.com/wp-content/uploads/2025/01/premiumadvicetraining-logo.png" height="40" style="margin-right: 20px;">
-      <h3>Full‑Stack Developer (Intern) @ PREMIUM ADVICE & TRAINING</h3>
-    </div>
 
-    <p><em>Jul 2024 – Sep 2024 | Tanger, Morocco</em></p>
-    <ul>
-      <li>🚀 Built full-stack learning platform</li>
-      <li>💻 Developed course tracking & admin systems</li>
-    </ul>
-  </div>
+### <img src="https://premiumadvicetraining.com/wp-content/uploads/2025/01/premiumadvicetraining-logo.png" height="25"> Full‑Stack Developer (Intern) @ PREMIUM ADVICE & TRAINING
+
+*Jul 2024 – Sep 2024 | Tanger, Morocco*
+
+- 🚀 Built full-stack learning platform
+- 💻 Developed course tracking & admin systems
+
 </div>
 
 <br />
 
-<!-- BMCI -->
 <div align="center">
-  <div style="max-width: 800px; margin: 0 auto; padding: 20px; background-color: rgba(13, 17, 23, 0.05); border-radius: 10px; text-align: left;">
-    <div style="display: flex; align-items: center; margin-bottom: 15px;">
-      <img src="https://cdn6.aptoide.com/imgs/6/d/f/6df6f84f7c7bfbde0092e34f96f18a66_icon.png" height="40" style="margin-right: 20px;">
-      <h3>RPA Developer (Intern) @ BMCI Groupe BNP Paribas</h3>
-    </div>
 
-    <p><em>Jul 2023 – Aug 2023 | Casablanca, Morocco</em></p>
-    <ul>
-      <li>🤖 Built automated transaction-monitoring systems</li>
-      <li>🔄 Utilized Blue Prism and C#</li>
-    </ul>
-  </div>
+### <img src="https://cdn6.aptoide.com/imgs/6/d/f/6df6f84f7c7bfbde0092e34f96f18a66_icon.png" height="25"> RPA Developer (Intern) @ BMCI Groupe BNP Paribas
+
+*Jul 2023 – Aug 2023 | Casablanca, Morocco*
+
+- 🤖 Built automated transaction-monitoring systems
+- 🔄 Utilized Blue Prism and C#
+
 </div>
 
 <br />
@@ -132,18 +117,14 @@
 <br />
 
 <div align="center">
-  <div style="max-width: 800px; margin: 0 auto; padding: 20px; background-color: rgba(13, 17, 23, 0.05); border-radius: 10px; text-align: left;">
-    <div style="display: flex; align-items: center; margin-bottom: 15px;">
-      <img src="https://www.emsi.ma/wp-content/uploads/2020/07/logo-emsi.png" height="40" style="margin-right: 20px;">
-      <h3>École Marocaine des Sciences de l'Ingénieur</h3>
-    </div>
 
-    <p><em>Master's in Computer & Network Engineering (2020 – 2025)</em></p>
-    <ul>
-      <li>🎓 Focus on software engineering and network infrastructure</li>
-      <li>🏆 Top of class in programming and systems design</li>
-    </ul>
-  </div>
+### <img src="https://www.emsi.ma/wp-content/uploads/2020/07/logo-emsi.png" height="25"> École Marocaine des Sciences de l'Ingénieur
+
+*Master's in Computer & Network Engineering (2020 – 2025)*
+
+- 🎓 Focus on software engineering and network infrastructure
+- 🏆 Top of class in programming and systems design
+
 </div>
 
 <br />
