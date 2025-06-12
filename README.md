@@ -68,40 +68,35 @@
 
 <br />
 
-<div align="center">
+<div style="padding: 0 40px;">
 
-### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/TE_Connectivity_logo.svg/2560px-TE_Connectivity_logo.svg.png" height="25"> IT Intern – Digital Process Automation @ TE Connectivity
+## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/TE_Connectivity_logo.svg/2560px-TE_Connectivity_logo.svg.png" height="30"> IT Intern – Digital Process Automation @ TE Connectivity
 
-*Apr 2025 – Present | Tanger–Tétouan–Al Hoceima, Morocco*
+<p style="font-size: 18px; font-style: italic; color: #61dafb;">Apr 2025 – Present | Tanger–Tétouan–Al Hoceima, Morocco</p>
 
-- 🔧 Working on automating internal processes
-- 🛠️ Tech Stack: Angular, ASP.NET Web API, Modern JavaScript
-
-</div>
-
-<br />
-
-<div align="center">
-
-### <img src="https://premiumadvicetraining.com/wp-content/uploads/2025/01/premiumadvicetraining-logo.png" height="25"> Full‑Stack Developer (Intern) @ PREMIUM ADVICE & TRAINING
-
-*Jul 2024 – Sep 2024 | Tanger, Morocco*
-
-- 🚀 Built full-stack learning platform
-- 💻 Developed course tracking & admin systems
-
-</div>
+<p style="font-size: 17px; margin-top: 15px;">
+🔧 Working on automating internal processes using Angular, ASP.NET Web API, and modern JavaScript frameworks. Implementing digital transformation solutions to streamline business operations.
+</p>
 
 <br />
 
-<div align="center">
+## <img src="https://premiumadvicetraining.com/wp-content/uploads/2025/01/premiumadvicetraining-logo.png" height="30"> Full‑Stack Developer (Intern) @ PREMIUM ADVICE & TRAINING
 
-### <img src="https://cdn6.aptoide.com/imgs/6/d/f/6df6f84f7c7bfbde0092e34f96f18a66_icon.png" height="25"> RPA Developer (Intern) @ BMCI Groupe BNP Paribas
+<p style="font-size: 18px; font-style: italic; color: #61dafb;">Jul 2024 – Sep 2024 | Tanger, Morocco</p>
 
-*Jul 2023 – Aug 2023 | Casablanca, Morocco*
+<p style="font-size: 17px; margin-top: 15px;">
+🚀 Built a full-stack learning platform with Next.js, TypeScript, and Firebase. Developed comprehensive course tracking systems and administrative dashboards for managing educational content.
+</p>
 
-- 🤖 Built automated transaction-monitoring systems
-- 🔄 Utilized Blue Prism and C#
+<br />
+
+## <img src="https://cdn6.aptoide.com/imgs/6/d/f/6df6f84f7c7bfbde0092e34f96f18a66_icon.png" height="30"> RPA Developer (Intern) @ BMCI Groupe BNP Paribas
+
+<p style="font-size: 18px; font-style: italic; color: #61dafb;">Jul 2023 – Aug 2023 | Casablanca, Morocco</p>
+
+<p style="font-size: 17px; margin-top: 15px;">
+🤖 Built automated transaction-monitoring systems using Blue Prism and C#. Designed and implemented robotic process automation solutions to enhance operational efficiency and reduce manual workload.
+</p>
 
 </div>
 
@@ -116,14 +111,15 @@
 
 <br />
 
-<div align="center">
+<div style="padding: 0 40px;">
 
-### <img src="https://www.emsi.ma/wp-content/uploads/2020/07/logo-emsi.png" height="25"> École Marocaine des Sciences de l'Ingénieur
+## <img src="https://www.emsi.ma/wp-content/uploads/2020/07/logo-emsi.png" height="30"> École Marocaine des Sciences de l'Ingénieur
 
-*Master's in Computer & Network Engineering (2020 – 2025)*
+<p style="font-size: 18px; font-style: italic; color: #61dafb;">Master's in Computer & Network Engineering (2020 – 2025)</p>
 
-- 🎓 Focus on software engineering and network infrastructure
-- 🏆 Top of class in programming and systems design
+<p style="font-size: 17px; margin-top: 15px;">
+🎓 Specializing in software engineering and network infrastructure with focus on modern development practices and cloud technologies. Consistently ranked among top students in programming and systems design courses.
+</p>
 
 </div>
 
@@ -139,23 +135,23 @@
 <br />
 
 <div align="center">
-  <p align="center"><strong>Frontend & UI</strong></p>
+  <p align="center" style="font-size: 20px; font-weight: bold;">Frontend & UI</p>
   <p align="center">
-    <a href="#"><img src="https://skillicons.dev/icons?i=angular,react,typescript,nextjs,html,css" alt="Frontend Technologies" /></a>
+    <a href="#"><img src="https://skillicons.dev/icons?i=angular,react,typescript,nextjs,html,css&perline=6" alt="Frontend Technologies" /></a>
   </p>
   
   <br />
   
-  <p align="center"><strong>Backend & Database</strong></p>
+  <p align="center" style="font-size: 20px; font-weight: bold;">Backend & Database</p>
   <p align="center">
-    <a href="#"><img src="https://skillicons.dev/icons?i=dotnet,nodejs,firebase,mongodb" alt="Backend Technologies" /></a>
+    <a href="#"><img src="https://skillicons.dev/icons?i=dotnet,nodejs,firebase,mongodb&perline=4" alt="Backend Technologies" /></a>
   </p>
   
   <br />
   
-  <p align="center"><strong>Tools & Platforms</strong></p>
+  <p align="center" style="font-size: 20px; font-weight: bold;">Tools & Platforms</p>
   <p align="center">
-    <a href="#"><img src="https://skillicons.dev/icons?i=git,docker,azure,vscode" alt="Tools & Platforms" /></a>
+    <a href="#"><img src="https://skillicons.dev/icons?i=git,docker,azure,vscode&perline=4" alt="Tools & Platforms" /></a>
   </p>
 </div>
 
