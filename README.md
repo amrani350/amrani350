@@ -89,20 +89,3 @@ Specializing in software engineering and network infrastructure with focus on mo
 
 <br>
 
-## 📂 Featured Projects
-
-<div align="center">
-  <a href="https://www.premiumadvicetrainingacademy.com">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amrani350&repo=training-platform&theme=react&hide_border=true" alt="Training Platform" />
-  </a>
-  
-  <a href="https://github.com/amrani350/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amrani350&repo=portfolio&theme=react&hide_border=true" alt="Portfolio" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=amrani350&style=for-the-badge&color=61dafb" alt="Profile Views" height="40" />
-</div>
