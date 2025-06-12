@@ -36,8 +36,8 @@
 <br />
 
 <!-- About Me Section with Modern Design -->
-<h2 align="center" style="font-size: 32px; margin-bottom: 20px;">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="32px" height="32px" alt="About Me Icon">
+<h2 align="center" style="font-size: 36px; margin-bottom: 25px;">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="36px" height="36px" alt="About Me Icon">
   &nbsp;About Me
 </h2>
 
@@ -61,8 +61,8 @@
 <br />
 
 <!-- Professional Experience Section -->
-<h2 align="center" style="font-size: 32px; margin-bottom: 20px;">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="32px" height="32px" alt="Experience Icon">
+<h2 align="center" style="font-size: 36px; margin-bottom: 25px;">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="36px" height="36px" alt="Experience Icon">
   &nbsp;Professional Experience
 </h2>
 
@@ -71,29 +71,29 @@
 <div style="padding: 0 40px;">
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/TE_Connectivity_logo.svg/2560px-TE_Connectivity_logo.svg.png" height="60">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/TE_Connectivity_logo.svg/2560px-TE_Connectivity_logo.svg.png" height="80">
 </div>
 
-## IT Intern – Digital Process Automation @ TE Connectivity
+<h2 style="font-size: 28px; text-align: center;">IT Intern – Digital Process Automation @ TE Connectivity</h2>
 
-<p style="font-size: 20px; font-style: italic; color: #61dafb;">Apr 2025 – Present | Tanger–Tétouan–Al Hoceima, Morocco</p>
+<p style="font-size: 22px; font-style: italic; color: #61dafb; text-align: center;">Apr 2025 – Present | Tanger–Tétouan–Al Hoceima, Morocco</p>
 
-<p style="font-size: 20px; margin-top: 15px; line-height: 1.6;">
+<p style="font-size: 22px; margin-top: 15px; line-height: 1.6;">
 🔧 Working on automating internal processes using Angular, ASP.NET Web API, and modern JavaScript frameworks. Implementing digital transformation solutions to streamline business operations.
 </p>
 
 <br />
 <br />
 
-<div align="center">
-  <img src="https://premiumadvicetraining.com/wp-content/uploads/2025/01/premiumadvicetraining-logo.png" height="60">
+<div align="">
+  <img src="https://premiumadvicetraining.com/wp-content/uploads/2025/01/premiumadvicetraining-logo.png" height="80">
 </div>
 
-## Full‑Stack Developer (Intern) @ PREMIUM ADVICE & TRAINING
+<h2 style="font-size: 28px; text-align: center;">Full‑Stack Developer (Intern) @ PREMIUM ADVICE & TRAINING</h2>
 
-<p style="font-size: 20px; font-style: italic; color: #61dafb;">Jul 2024 – Sep 2024 | Tanger, Morocco</p>
+<p style="font-size: 22px; font-style: italic; color: #61dafb; text-align: center;">Jul 2024 – Sep 2024 | Tanger, Morocco</p>
 
-<p style="font-size: 20px; margin-top: 15px; line-height: 1.6;">
+<p style="font-size: 22px; margin-top: 15px; line-height: 1.6;">
 🚀 Built a full-stack learning platform with Next.js, TypeScript, and Firebase. Developed comprehensive course tracking systems and administrative dashboards for managing educational content.
 </p>
 
@@ -101,14 +101,14 @@
 <br />
 
 <div align="center">
-  <img src="https://cdn6.aptoide.com/imgs/6/d/f/6df6f84f7c7bfbde0092e34f96f18a66_icon.png" height="60">
+  <img src="https://cdn6.aptoide.com/imgs/6/d/f/6df6f84f7c7bfbde0092e34f96f18a66_icon.png" height="80">
 </div>
 
-## RPA Developer (Intern) @ BMCI Groupe BNP Paribas
+<h2 style="font-size: 28px; text-align: center;">RPA Developer (Intern) @ BMCI Groupe BNP Paribas</h2>
 
-<p style="font-size: 20px; font-style: italic; color: #61dafb;">Jul 2023 – Aug 2023 | Casablanca, Morocco</p>
+<p style="font-size: 22px; font-style: italic; color: #61dafb; text-align: center;">Jul 2023 – Aug 2023 | Casablanca, Morocco</p>
 
-<p style="font-size: 20px; margin-top: 15px; line-height: 1.6;">
+<p style="font-size: 22px; margin-top: 15px; line-height: 1.6;">
 🤖 Built automated transaction-monitoring systems using Blue Prism and C#. Designed and implemented robotic process automation solutions to enhance operational efficiency and reduce manual workload.
 </p>
 
@@ -118,8 +118,8 @@
 <br />
 
 <!-- Education Section -->
-<h2 align="center" style="font-size: 32px; margin-bottom: 20px;">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Idea-Dark.svg" width="32px" height="32px" alt="Education Icon">
+<h2 align="center" style="font-size: 36px; margin-bottom: 25px;">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Idea-Dark.svg" width="36px" height="36px" alt="Education Icon">
   &nbsp;Education
 </h2>
 
@@ -128,14 +128,14 @@
 <div style="padding: 0 40px;">
 
 <div align="center">
-  <img src="https://emsi.ma/wp-content/uploads/2024/03/logo-emsi.png" height="60">
+  <img src="https://emsi.ma/wp-content/uploads/2024/03/logo-emsi.png" height="80">
 </div>
 
-## École Marocaine des Sciences de l'Ingénieur
+<h2 style="font-size: 28px; text-align: center;">École Marocaine des Sciences de l'Ingénieur</h2>
 
-<p style="font-size: 20px; font-style: italic; color: #61dafb;">Master's in Computer & Network Engineering (2020 – 2025)</p>
+<p style="font-size: 22px; font-style: italic; color: #61dafb; text-align: center;">Master's in Computer & Network Engineering (2020 – 2025)</p>
 
-<p style="font-size: 20px; margin-top: 15px; line-height: 1.6;">
+<p style="font-size: 22px; margin-top: 15px; line-height: 1.6;">
 🎓 Specializing in software engineering and network infrastructure with focus on modern development practices and cloud technologies. Consistently ranked among top students in programming and systems design courses.
 </p>
 
@@ -145,31 +145,31 @@
 <br />
 
 <!-- Tech Stack Section -->
-<h2 align="center" style="font-size: 32px; margin-bottom: 20px;">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="32px" height="32px" alt="Tech Stack Icon">
+<h2 align="center" style="font-size: 36px; margin-bottom: 25px;">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="36px" height="36px" alt="Tech Stack Icon">
   &nbsp;Tech Stack
 </h2>
 
 <br />
 
 <div align="center">
-  <p align="center" style="font-size: 24px; font-weight: bold;">Frontend & UI</p>
+  <p align="center" style="font-size: 28px; font-weight: bold;">Frontend & UI</p>
   <p align="center">
-    <a href="#"><img src="https://skillicons.dev/icons?i=angular,react,typescript,nextjs,html,css&perline=6&theme=dark" alt="Frontend Technologies" style="width: 80%;" /></a>
+    <a href="#"><img src="https://skillicons.dev/icons?i=angular,react,typescript,nextjs,html,css&perline=6&theme=dark" alt="Frontend Technologies" style="width: 90%;" /></a>
   </p>
   
   <br />
   
-  <p align="center" style="font-size: 24px; font-weight: bold;">Backend & Database</p>
+  <p align="center" style="font-size: 28px; font-weight: bold;">Backend & Database</p>
   <p align="center">
-    <a href="#"><img src="https://skillicons.dev/icons?i=dotnet,nodejs,firebase,mongodb&perline=4&theme=dark" alt="Backend Technologies" style="width: 60%;" /></a>
+    <a href="#"><img src="https://skillicons.dev/icons?i=dotnet,nodejs,firebase,mongodb&perline=4&theme=dark" alt="Backend Technologies" style="width: 70%;" /></a>
   </p>
   
   <br />
   
-  <p align="center" style="font-size: 24px; font-weight: bold;">Tools & Platforms</p>
+  <p align="center" style="font-size: 28px; font-weight: bold;">Tools & Platforms</p>
   <p align="center">
-    <a href="#"><img src="https://skillicons.dev/icons?i=git,docker,azure,vscode&perline=4&theme=dark" alt="Tools & Platforms" style="width: 60%;" /></a>
+    <a href="#"><img src="https://skillicons.dev/icons?i=git,docker,azure,vscode&perline=4&theme=dark" alt="Tools & Platforms" style="width: 70%;" /></a>
   </p>
 </div>
 
@@ -177,20 +177,20 @@
 <br />
 
 <!-- Projects Section -->
-<h2 align="center" style="font-size: 32px; margin-bottom: 20px;">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="32px" height="32px" alt="Projects Icon">
+<h2 align="center" style="font-size: 36px; margin-bottom: 25px;">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="36px" height="36px" alt="Projects Icon">
   &nbsp;Featured Projects
 </h2>
 
 <br />
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
   <a href="https://www.premiumadvicetrainingacademy.com">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amrani350&repo=training-platform&theme=react&hide_border=true" alt="Training Platform" style="width: 45%;" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amrani350&repo=training-platform&theme=react&hide_border=true" alt="Training Platform" style="width: 48%;" />
   </a>
   
   <a href="https://github.com/amrani350/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amrani350&repo=portfolio&theme=react&hide_border=true" alt="Portfolio" style="width: 45%;" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amrani350&repo=portfolio&theme=react&hide_border=true" alt="Portfolio" style="width: 48%;" />
   </a>
 </div>
 
@@ -199,9 +199,9 @@
 
 <!-- Footer -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=amrani350&style=for-the-badge&color=61dafb" alt="Profile Views" height="35" />
+  <img src="https://komarev.com/ghpvc/?username=amrani350&style=for-the-badge&color=61dafb" alt="Profile Views" height="40" />
   <br /><br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer&fontColor=61dafb" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=150&section=footer&fontColor=61dafb" />
 </div>
 
 
