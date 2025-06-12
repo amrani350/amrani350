@@ -24,8 +24,8 @@ I'm enthusiastic about creating efficient digital solutions and automating proce
 
 ## 💼 Professional Experience
 
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/TE_Connectivity_logo.svg/2560px-TE_Connectivity_logo.svg.png" height="60">
+<div align="">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/TE_Connectivity_logo.svg/2560px-TE_Connectivity_logo.svg.png" height="4à">
 </div>
 
 ### IT Intern – Digital Process Automation @ TE Connectivity
@@ -35,8 +35,8 @@ Working on automating internal processes using Angular, ASP.NET Web API, and mod
 
 <br>
 
-<div align="center">
-  <img src="https://premiumadvicetraining.com/wp-content/uploads/2025/01/premiumadvicetraining-logo.png" height="60">
+<div align="">
+  <img src="https://premiumadvicetraining.com/wp-content/uploads/2025/01/premiumadvicetraining-logo.png" height="40">
 </div>
 
 ### Full‑Stack Developer (Intern) @ PREMIUM ADVICE & TRAINING
@@ -47,7 +47,7 @@ Built a full-stack learning platform with Next.js, TypeScript, and Firebase. Dev
 <br>
 
 <div align="center">
-  <img src="https://cdn6.aptoide.com/imgs/6/d/f/6df6f84f7c7bfbde0092e34f96f18a66_icon.png" height="60">
+  <img src="https://cdn6.aptoide.com/imgs/6/d/f/6df6f84f7c7bfbde0092e34f96f18a66_icon.png" height="40">
 </div>
 
 ### RPA Developer (Intern) @ BMCI Groupe BNP Paribas
@@ -60,7 +60,7 @@ Built automated transaction-monitoring systems using Blue Prism and C#. Designed
 ## 🎓 Education
 
 <div align="center">
-  <img src="https://emsi.ma/wp-content/uploads/2024/03/logo-emsi.png" height="60">
+  <img src="https://emsi.ma/wp-content/uploads/2024/03/logo-emsi.png" height="40">
 </div>
 
 ### École Marocaine des Sciences de l'Ingénieur
