@@ -25,7 +25,7 @@ I'm enthusiastic about creating efficient digital solutions and automating proce
 ## 💼 Professional Experience
 
 <div align="">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/TE_Connectivity_logo.svg/2560px-TE_Connectivity_logo.svg.png" height="4à">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/TE_Connectivity_logo.svg/2560px-TE_Connectivity_logo.svg.png" height="40">
 </div>
 
 ### IT Intern – Digital Process Automation @ TE Connectivity
@@ -46,7 +46,7 @@ Built a full-stack learning platform with Next.js, TypeScript, and Firebase. Dev
 
 <br>
 
-<div align="center">
+<div align="">
   <img src="https://cdn6.aptoide.com/imgs/6/d/f/6df6f84f7c7bfbde0092e34f96f18a66_icon.png" height="40">
 </div>
 
@@ -59,7 +59,7 @@ Built automated transaction-monitoring systems using Blue Prism and C#. Designed
 
 ## 🎓 Education
 
-<div align="center">
+<div align="">
   <img src="https://emsi.ma/wp-content/uploads/2024/03/logo-emsi.png" height="40">
 </div>
 
